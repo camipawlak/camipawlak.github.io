@@ -14,13 +14,13 @@ I am passionate about using remote sensing to track and map natural resources. I
 
 ## Education
 
-#### Ph.D. Geography
+### Ph.D. Geography
 University of California, Los Angeles (In Progress)
 
-#### M.S. Biology
+### M.S. Biology
 California Polytechnic State University, San Luis Obispo (2023)
 
-#### B.S. Environmental Science
+### B.S. Environmental Science
 University of California, Los Angeles (2020)
 Minors in Conservation Biology and Geospatial Information Science and Technology
 
