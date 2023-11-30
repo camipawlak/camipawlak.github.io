@@ -10,6 +10,7 @@
    background-color: #c4c9bb !important; /* Light green color */
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   height: 100%; /* Set height to 100% */
 
   @include clearfix();
   margin-bottom: 1em;
