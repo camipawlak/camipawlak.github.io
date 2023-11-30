@@ -8,23 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Geography Department at UCLA. 
+I am a Ph.D. student in the Geography Department at UCLA. 
 
-Education
-======
-Ph.D. Geography 
-===
+# Education
+
+**<sub>Ph.D. Geography </sub>**
 University of California, Los Angeles (In Progress)
 
-M.S. Biology
-===
+**</sub>M.S. Biology</sub>**
 California Polytechnic State University, San Luis Obispo (2023)
 
-B.S. Environmental Science
-===
+**</sub></sub>**
 University of California, Los Angeles (2020)
 Minors in Conservation Biology and Geospatial Information Science and Technology
 
-Current Work
-======
+# Current Work
+
 
