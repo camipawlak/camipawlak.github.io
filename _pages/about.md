@@ -15,13 +15,13 @@ I am passionate about combining field data and remote sensing to develop new way
 # Education
 
 ### Ph.D. Geography
-*University of California, Los Angeles* (In Progress)
+*University of California, Los Angeles* In Progress
 
 ### M.S. Biology
-*California Polytechnic State University, San Luis Obispo* (2023)
+*California Polytechnic State University, San Luis Obispo* 2023
 
 ### B.S. Environmental Science
-*University of California, Los Angeles* (2020)
+*University of California, Los Angeles* 2020
 
 Minors: Conservation Biology, Geospatial Information Science and Technology
 
