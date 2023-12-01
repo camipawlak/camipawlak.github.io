@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the Geography Department at UCLA. I study California's urban forests. Previous work has focused on the distribution of California's native trees, the composition of species and trees growing in California's urban forests, the development of a neural network to predict the location of every tree in urban California, mapping cacao in the Amazon, how street tree biodiversity might predict urban temperatures, tracking changes in kelp canopy over time, and using UAVs to monitor intertidal zones.
 
-I am passionate about combining field data and remote sensing to develop new ways track and map natural resources. Currently, I am working on using computer vision to assess ways to track changes in urban canopy over time using both active and passive remote sensing products across California. At UCLA, I word with Dr. Tom Gillespie. Previously, I've been advised by Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker and Dr. Kyle Cavanaugh.
+I am passionate about combining field data and remote sensing to develop new ways track and map natural resources. Currently, I am working on using computer vision to assess ways to track changes in urban canopy over time using both active and passive remote sensing products across California. At UCLA, I work with Dr. Tom Gillespie. Previously, I've been advised by Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker and Dr. Kyle Cavanaugh.
 
 # Education
 
@@ -21,7 +21,7 @@ University of California, Los Angeles (In Progress)
 California Polytechnic State University, San Luis Obispo (2023)
 
 ### B.S. Environmental Science
-University of California, Los Angeles (2020)
+University of California, Los Angeles (2020) /n
 Minors in Conservation Biology and Geospatial Information Science and Technology
 
 ## Current Work
