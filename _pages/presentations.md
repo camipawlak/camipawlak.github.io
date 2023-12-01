@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Selected Publications"
+title: " Selected Presentations"
 permalink: /presentations/
 author_profile: true
 ---
