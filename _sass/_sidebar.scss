@@ -7,10 +7,10 @@
    ========================================================================== */
 
 .sidebar {
-  background-color: #c4c9bb !important; /* Light green color */
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  height: 100%; /* Set height to 100% */
+   background-color: #c4c9bb !important; /* Light green color */
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
+   height: 100%; /* Set height to 100% */
 
   @include clearfix();
   margin-bottom: 1em;
@@ -19,20 +19,13 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
     }
   }
-}
 
-/* Hide sidebar on mobile devices */
-@media screen and (max-width: 767px) {
-  .sidebar {
-    display: none;
-  }
-}
 
   @include breakpoint($x-large) {
     padding: 20px;
