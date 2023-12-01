@@ -23,7 +23,7 @@ California Polytechnic State University, San Luis Obispo (2023)
 ### B.S. Environmental Science
 University of California, Los Angeles (2020)
 
-Minors in Conservation Biology and Geospatial Information Science and Technology
+Minors: Conservation Biology, Geospatial Information Science and Technology
 
 ## Current Work
 
