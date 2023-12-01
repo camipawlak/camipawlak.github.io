@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: " Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Selected Publications
 **Pawlak, C. C.**, Love, N., Fricker, A., Doremus, J., Yost, J., & Ritter, M. (2023). California’s Native Trees and Their Use in the Urban Forest. Urban Forestry & Urban Greening, 89,
 128125. https://doi.org/10.1016/j.ufug.2023.128125.
 
