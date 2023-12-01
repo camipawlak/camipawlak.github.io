@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Camille Pawlak"
 title_separator          : "-"
 name                     : &name "Cami"
-description              : &description "Geography Ph.D. Student at UCLA. Biogeographer. Interested in spatial ecology and remote sensing. Currently focused on urban forests, but previous work has focused on tropical agriculture, invasive species, kelp, saltmarshes, and intertidal zones."
+description              : &description "Biogeographer"
 url                      : https://camipawlak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Cami"
   avatar           : "profile.png"
-  bio              : "Geography PhD Student focused on creating big datasets for California's urban forests"
-  location         : "Los Angeles, CA"
+  bio              : "Geography Ph.D. Student at UCLA. Biogeographer. Interested in spatial ecology and remote sensing. Currently focused on urban forests, but previous work has focused on tropical agriculture, invasive species, kelp, saltmarshes, and intertidal zones."
+  location         : "UCLA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en"
