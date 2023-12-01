@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Pawlak, C. C.**, Love, N., Fricker, A., Doremus, J., Yost, J., & Ritter, M. (2023). California’s Native Trees and Their Use in the Urban Forest. Urban Forestry & Urban Greening, 89,
-128125.  https://doi.org/10.1016/j.ufug.2023.128125.
+128125. [https://doi.org/10.1016/j.ufug.2023.128125](https://doi.org/10.1016/j.ufug.2023.128125).
 
 K. C., Cavanaugh, Cavanaugh, K.C. , **Pawlak, C. C.**, Bell, T., & Saccamano, V. (2023). 
 CubeSats show persistence of bull kelp refugia amidst a regional collapse in California. Remote Sensing of Environment, 290, 113521. https://doi.org/10.1016/j.rse.2023.113521.
