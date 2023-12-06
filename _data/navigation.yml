@@ -20,6 +20,5 @@ main:
     
   - title: "ML205"
     url: /recently/ML205/
-    ---
     nav_exclude: true
-    ---
+
