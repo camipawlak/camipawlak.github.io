@@ -1,32 +1,31 @@
 ---
 layout: archive
 title: "Canopy Cover Segmentation From Aerial Imagery Using Deep Learning"
-permalink: /recently/ML205/
-author_profile: true
+permalink: /ML205/
 ---
 
-#Introduction
+# Introduction
 blah
 
-#Data
+# Data
 blah
 Figure 1: Sample NAIP Imagery
 
-#Modeling
+# Modeling
 blah
 Figure 2: Model Structure
 
-#Results
+# Results
 blah
 Figure 3: Table of results
 Figure 4: Example Outputs
 
-#Discussion
+# Discussion
 blah
 
-#Instructions for running the code
+# Instructions for running the code
 Blah
 
-#References
+# References
 Blah
 
