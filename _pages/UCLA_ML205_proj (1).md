@@ -37,15 +37,15 @@ permalink: /ML205/
 
 ### Network Architecture
 
-  We used a standard U-Net architecture with an encoder-decoder structure with skip connections. The input has 5 channels which correspond to the four bands and vegetation index in the imagery. The encoder, which down samples the imagery, is made of four blocks. Each block has a 3x3 convolution filter, a reLU activation function, and a max pooling layer with a stride and kernel size of 2x2. The convolution layers have a padding of 1 pixel to prevent the image from reducing in size. 
+  We used a standard U-Net architecture with an encoder-decoder structure with skip connections. The input has 5 channels which correspond to the four bands and vegetation index in the imagery. The encoder, which down-samples the imagery, is a resnet34 encoder and is made of four blocks. Each block has a 3x3 convolution filter, a reLU activation function, and a max pooling layer with a stride and kernel size of 2x2. The convolution layers have a padding of 1 pixel to prevent the image from reducing in size. 
       
-  The decoder, which up samples the imagery, has four blocks. Each block has a transposed convolutional layer with a reLU activation filter, with a kernel size and stride of 2x2. There are skip connections from the encoder to decoder blocks which help the model maintain spatial details. The final layer is sent through a 1x1 convolution filter and creates a binary output map where 1 represents canopy and 0 represents everything else. The structure of this model is shown in figure 2.
+  The decoder, which up-samples the imagery, has four blocks. Each block has a transposed convolutional layer with a reLU activation filter, with a kernel size and stride of 2x2. There are skip connections from the encoder to decoder blocks which help the model maintain spatial details. The final layer is sent through a 1x1 convolution filter and creates a binary output map where 1 represents canopy and 0 represents everything else. The structure of this model is shown in figure 2.
     
   The model uses a cross entropy loss function to adjust model weights during training, which is often used for classification problems like ours and utilizes softmax activation followed by log transformation (Lau, 2022). Validation loss during training is shown in figure 4.
 
 ### Model Parameters
 
-  The model was created and run using the PyTorch machine learning library.  The model uses an Adams optimizer with standard parameters to update network weights (Kingma and Ba, 2017). I ran the model on two Tesla V100 GPUs. I trained the best model for 150 epochs with a batch size of 16. The learning rate was set to 0.0001. I ran several tests altering the number of training samples and epochs to see how performance was affected. 
+  The model was created and run using the PyTorch machine learning library.  The model uses an Adams optimizer with standard parameters to update network weights (Kingma and Ba, 2017). I ran the model on two Tesla V100 GPUs. I trained the model with a batch size of 16. The learning rate was set to 0.0001. I ran several tests altering the number of training samples and epochs to see how performance was affected. The number of training samples and epochs were (500, 100), (8000, 150), and (8999,200) respectively. 
 
 ## Results
 
@@ -57,7 +57,7 @@ permalink: /ML205/
 
 ![Local Image](../images/train_validation_loss.jpg.png)
 
-*Figure 4: The validation loss over the model steps.*
+*Figure 4: The validation loss over the model steps. These values are for the model which has the highest F-score, this model was run over 150 epochs with 8,000 training samples.*
 
 ![Local Image](../images/model_results_image.jpg)
 
@@ -69,6 +69,8 @@ permalink: /ML205/
     
   Additionally, I can improve the evaluation methods of the model. Evaluating the accuracy of the canopy cover model with automatically generated canopy cover masks is problematic in that there may be errors in those masks. Although the Weinstein et al. paper showed that automatically generated training data can be used to train a canopy cover model, I am in the process of creating manual annotations for close to 500 tiles across California’s cities to more accurately assess our model results. With more accurate canopy annotations for testing our model, we will have a better idea of how to change our model to get more accurate results. 
 
+## Conclusion
+  Using U-Net to segment canopy cover from aerial imagery showed promising results in our study. Although the F-Score is not as high as I would like, and the model results are not perfect, in the test imagery, most major trees appear to be classified correctly as canopy by our model. With further improvements, we should have a robust model soon!
 
 # References
 Braga, J. R., Peripato, V., Dalagnol, R., P. Ferreira, M., Tarabalka, Y., O. C. Aragão, L. E., F. De Campos Velho, H., Shiguemori, E. H., & Wagner, F. H. (2020). Tree Crown Delineation Algorithm Based on a Convolutional Neural Network. Remote Sensing, 12(8), 1288. https://doi.org/10.3390/rs12081288
