@@ -31,7 +31,7 @@ permalink: /ML205/
     
   Because of success in other studies segmenting tree canopies, we decided to create a convolution neural network with a U-Net architecture, which was originally created for biomedical image segmentation (Ronneberger et al., 2015; Wang et al., 2021; Martins et al.,2021). Several publications have found U-Net to work better than or similarly to other deep learning architectures for tree canopy segmentation (Wang et al., 2021; Martins et al.,2021). Based on U-Nets’ success in other publications, we chose it for our initial trials. 
 
-![Local Image](images/model_architecture.jpg)
+![Local Image](../images/model_architecture.jpg)
 
 *Figure 2: Model Structure for the standard four block encoder-decoder with skip connections U-Net architecture we used.*
 
@@ -51,13 +51,13 @@ permalink: /ML205/
 
   I trained the model three times with increasing epochs and training data. The first model was trained across 100 epochs with 500 training samples and resulted in a precision of 0.718, a recall of 0.314, and an F-Score of 0.427 (Figure 3). The second mode was trained across 150 epochs with 8,000 training samples and resulted in a precision of 0.753, a recall of 0.65, and an F-Score of 0.701 (Figure 3). The final model was trained across 200 epochs with 8,999 training samples and results in a precision of 0.773, a recall of 0.637, and an F-Score of 0.698.
 
-![Local Image](images/model_results_table.jpg)
+![Local Image](../images/model_results_table.jpg)
 *Figure 3: Model results. I ran the model three times with varying training epochs and amount of training samples used.*
 
-![Local Image](images/train_validation_loss.jpg.png)
+![Local Image](../images/train_validation_loss.jpg.png)
 *Figure 4: The validation loss over the model steps.*
 
-![Local Image](images/model_results_image.jpg)
+![Local Image](../images/model_results_image.jpg)
 *Figure 5: Top: The input image, true mask label data, and predicted canopy from our model in Santa Monica, CA. Bottom: The input image, true mask label data, and predicted canopy from our model in Riverside, CA.*
 
 ## Discussion
