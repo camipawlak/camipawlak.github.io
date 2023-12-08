@@ -21,6 +21,7 @@ permalink: /ML205/
  
   For each image, we had an accompanied label dataset of canopy cover which were created by using USGS LiDAR to create canopy height models. After processing the LiDAR for each city to a canopy height model, used a threshold on the canopy height model and corresponding NAIP imagery to assign all areas over 2 meters high and with an NDVI threshold of 0.4 as canopy cover. LiDAR imagery was selected to be as close to the year of the NAIP imagery (2020) as possible. Creating automated training data has shown some success in being used as training data to predict canopy cover in a previous study (Weinstein et al., 2019). Once our data was cropped into 448x448x5 sections, we split our data into 80% training data, 10% test data, and 10% evaluation data.
 
+![Local Image](images/training_data.jpg)
 
 *Figure 1: On the left, NAIP imagery displayed in true color that was used for the training process. On the right, the label applied to the mask where white is canopy and black is not canopy. This imagery comes from Claremont, CA in 2020.*
 
@@ -29,6 +30,8 @@ permalink: /ML205/
   One reason a neural network is appropriate for this project is because we can quickly create large amounts of training data using LiDAR. Additionally, our decision boundaries are complex. From above the values and shapes of small shrubs and grass patches can be quite similar to trees, so identifying what is a tree using only visual imagery is a difficult task. Although it takes a long time to train a neural network, we have four v100 GPUs available to use, so we can handle large amounts of data. A convolutional neural network like U-Net will work better than an artificial neural network due to needing spatial coherence and the high number of parameters that using an artificial neural network would create for our model. For an artificial neural network with two hidden layers, using our 448x448x5 input data there would be a 2,014,103,010,560 model parameters, which is quite unreasonable!
     
   Because of success in other studies segmenting tree canopies, we decided to create a convolution neural network with a U-Net architecture, which was originally created for biomedical image segmentation (Ronneberger et al., 2015; Wang et al., 2021; Martins et al.,2021). Several publications have found U-Net to work better than or similarly to other deep learning architectures for tree canopy segmentation (Wang et al., 2021; Martins et al.,2021). Based on U-Nets’ success in other publications, we chose it for our initial trials. 
+
+![Local Image](images/model_architecture.jpg)
 
 *Figure 2: Model Structure for the standard four block encoder-decoder with skip connections U-Net architecture we used.*
 
