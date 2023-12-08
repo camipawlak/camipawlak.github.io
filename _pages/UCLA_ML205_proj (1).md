@@ -21,7 +21,7 @@ permalink: /ML205/
  
   For each image, we had an accompanied label dataset of canopy cover which were created by using USGS LiDAR to create canopy height models. After processing the LiDAR for each city to a canopy height model, used a threshold on the canopy height model and corresponding NAIP imagery to assign all areas over 2 meters high and with an NDVI threshold of 0.4 as canopy cover. LiDAR imagery was selected to be as close to the year of the NAIP imagery (2020) as possible. Creating automated training data has shown some success in being used as training data to predict canopy cover in a previous study (Weinstein et al., 2019). Once our data was cropped into 448x448x5 sections, we split our data into 80% training data, 10% test data, and 10% evaluation data.
 
-![Local Image](camipawlak.github.io/images/training_data.jpg)
+![Local Image](../images/training_data.jpg)
 
 *Figure 1: On the left, NAIP imagery displayed in true color that was used for the training process. On the right, the label applied to the mask where white is canopy and black is not canopy. This imagery comes from Claremont, CA in 2020.*
 
@@ -52,12 +52,15 @@ permalink: /ML205/
   I trained the model three times with increasing epochs and training data. The first model was trained across 100 epochs with 500 training samples and resulted in a precision of 0.718, a recall of 0.314, and an F-Score of 0.427 (Figure 3). The second mode was trained across 150 epochs with 8,000 training samples and resulted in a precision of 0.753, a recall of 0.65, and an F-Score of 0.701 (Figure 3). The final model was trained across 200 epochs with 8,999 training samples and results in a precision of 0.773, a recall of 0.637, and an F-Score of 0.698.
 
 ![Local Image](../images/model_results_table.jpg)
+
 *Figure 3: Model results. I ran the model three times with varying training epochs and amount of training samples used.*
 
 ![Local Image](../images/train_validation_loss.jpg.png)
+
 *Figure 4: The validation loss over the model steps.*
 
 ![Local Image](../images/model_results_image.jpg)
+
 *Figure 5: Top: The input image, true mask label data, and predicted canopy from our model in Santa Monica, CA. Bottom: The input image, true mask label data, and predicted canopy from our model in Riverside, CA.*
 
 ## Discussion
