@@ -14,18 +14,18 @@ permalink: /ML205/
 
 
 ## Methods
-#### Data
+### Data
 
   Our training data consists of 448x448 of NAIP imagery in a raster format (.tifs). NAIP. These rasters were clipped from NAIP imagery downloaded and mosaicked that covered four cities in the Southern California Coast climate zone: Riverside, Claremont, Long Beach, and Santa Monica. These cities were chosen because they had LiDAR data available, are major population centers, and represent slightly varying environments from the coast to the most inland parts of the climate zone. 
  The imagery has four bands: red, blue, green, and near-infrared and is 60 cm in resolution. We added a fifth band which is an established vegetation index called a Normalized Difference Vegetation Index (NDVI). NDVIs can help balance the negative effects of shadows in imagery which sometimes cover canopies, and make vegetation stand out in an image. NDVIs are calculated using the following equation: (Red-NIR)/(Red+NIR+1e-8). The 1e-8 was added to prevent division by 0. For each band, we took the maximum and minimum value for the entire state dataset across the state of California, and used it to standardize our data. We used maximum-minimum normalization on every band in every 448x448 training sample. The values for each imagery band range were stretched to range from 0-255. An NDVI ranges from -1 to 1. For the NDVI bands, we converted the scale from -1 to 1 to 0-255 by adding 1 and multiplying by 2/255. 
  
   For each image, we had an accompanied label dataset of canopy cover which were created by using USGS LiDAR to create canopy height models. After processing the LiDAR for each city to a canopy height model, used a threshold on the canopy height model and corresponding NAIP imagery to assign all areas over 2 meters high and with an NDVI threshold of 0.4 as canopy cover. LiDAR imagery was selected to be as close to the year of the NAIP imagery (2020) as possible. Creating automated training data has shown some success in being used as training data to predict canopy cover in a previous study (Weinstein et al., 2019). Once our data was cropped into 448x448x5 sections, we split our data into 80% training data, 10% test data, and 10% evaluation data.
 
-![Local Image](images/training_data.jpg)
+![Local Image](camipawlak.github.io/images/training_data.jpg)
 
 *Figure 1: On the left, NAIP imagery displayed in true color that was used for the training process. On the right, the label applied to the mask where white is canopy and black is not canopy. This imagery comes from Claremont, CA in 2020.*
 
-#### Model Choice
+### Model Choice
 
   One reason a neural network is appropriate for this project is because we can quickly create large amounts of training data using LiDAR. Additionally, our decision boundaries are complex. From above the values and shapes of small shrubs and grass patches can be quite similar to trees, so identifying what is a tree using only visual imagery is a difficult task. Although it takes a long time to train a neural network, we have four v100 GPUs available to use, so we can handle large amounts of data. A convolutional neural network like U-Net will work better than an artificial neural network due to needing spatial coherence and the high number of parameters that using an artificial neural network would create for our model. For an artificial neural network with two hidden layers, using our 448x448x5 input data there would be a 2,014,103,010,560 model parameters, which is quite unreasonable!
     
@@ -35,7 +35,7 @@ permalink: /ML205/
 
 *Figure 2: Model Structure for the standard four block encoder-decoder with skip connections U-Net architecture we used.*
 
-#### Network Architecture
+### Network Architecture
 
   We used a standard U-Net architecture with an encoder-decoder structure with skip connections. The input has 5 channels which correspond to the four bands and vegetation index in the imagery. The encoder, which down samples the imagery, is made of four blocks. Each block has a 3x3 convolution filter, a reLU activation function, and a max pooling layer with a stride and kernel size of 2x2. The convolution layers have a padding of 1 pixel to prevent the image from reducing in size. 
       
@@ -43,7 +43,7 @@ permalink: /ML205/
     
   The model uses a cross entropy loss function to adjust model weights during training, which is often used for classification problems like ours and utilizes softmax activation followed by log transformation (Lau, 2022). Validation loss during training is shown in figure 4.
 
-#### Model Parameters
+### Model Parameters
 
   The model was created and run using the PyTorch machine learning library.  The model uses an Adams optimizer with standard parameters to update network weights (Kingma and Ba, 2017). I ran the model on two Tesla V100 GPUs. I trained the best model for 150 epochs with a batch size of 16. The learning rate was set to 0.0001. I ran several tests altering the number of training samples and epochs to see how performance was affected. 
 
