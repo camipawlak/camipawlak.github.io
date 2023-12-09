@@ -106,4 +106,4 @@ Weinstein, B. G., Marconi, S., Bohlman, S., Zare, A., & White, E. (2019). Indivi
 
 Zhao, H., Morgenroth, J., Pearse, G., & Schindler, J. (2023). A Systematic Review of Individual Tree Crown Detection and Delineation with Convolutional Neural Networks (CNN). Current Forestry Reports. https://doi.org/10.1007/s40725-023-00184-3
 
-
+*Note ChatGPT and plenty of Google searches were used to help code and troubleshoot
