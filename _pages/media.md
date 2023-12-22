@@ -10,7 +10,7 @@ and Mathematics Intersections Magazine*. https://cosam.calpoly.edu/intersections
 
 
 Ferreira, G. (2023). Beating the Heat: Students Map California Tree Canopy to Cool Cities as 
-Climate Warms.*Cal Poly News.* https://www.calpoly.edu/news/beating-heat-students-map-california-tree-canopy-cool-cities-climate-warms 
+Climate Warms. *Cal Poly News.* https://www.calpoly.edu/news/beating-heat-students-map-california-tree-canopy-cool-cities-climate-warms 
 
 # Magazine Articles
 
