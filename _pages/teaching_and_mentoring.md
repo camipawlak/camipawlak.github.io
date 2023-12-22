@@ -1,32 +1,16 @@
 ---
 layout: archive
 title: " Selected Publications"
-permalink: /publications/
+permalink: /teaching/
 author_profile: true
 ---
 
-Rendon, P., Love, N., **Pawlak, C.**, Yost, J., Ritter, M., & Doremus, J. (2024). Street tree diversity and urban heat. Urban Forestry & Urban Greening, 91, 128180. https://doi.org/10.1016/j.ufug.2023.128180
+# Courses Taught
+**Advanced GIS, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
+**Field Botany, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
+**Introductory Botany, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Fall 2022)
+**Introductory Ecology and Evolution, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Spring 2022)
 
-**Pawlak, C. C.**, Love, N., Fricker, A., Doremus, J., Yost, J., & Ritter, M. (2023). California’s Native Trees and Their Use in the Urban Forest. Urban Forestry & Urban Greening, 89,
-128125. https://doi.org/10.1016/j.ufug.2023.128125.
+# Mentoring 
 
-K. C., Cavanaugh, Cavanaugh, K.C. , **Pawlak, C. C.**, Bell, T., & Saccamano, V. (2023). 
-CubeSats show persistence of bull kelp refugia amidst a regional collapse in California. Remote Sensing of Environment, 290, 113521. https://doi.org/10.1016/j.rse.2023.113521.
- 
-Saccomanno, V. R., Bell, T., **Pawlak, C.**, Stanley, C. K., Cavanaugh, K. C., Hohman, R., ... & 
-Gleason, M. (2022). Using unoccupied aerial vehicles to map and monitor changes in emergent kelp canopy after an ecological regime shift. Remote Sensing in Ecology and Conservation, 9(1), 62-75.  https://doi.org/10.1002/rse2.295.
-
-Love, N. L., Nguyen, V., **Pawlak, C.**, Pineda, A., Reimer, J. L., Yost, J. M., Fricker, A. G., 		Ventura, J., Doremus, J., Crow, T., & Ritter, M. K. (2022). Diversity and structure in 		California’s urban forest: What over six million data points tell us about one of the world's largest urban forests. Urban Forestry & Urban Greening, 74, 127679. https://doi.org/10.1016/j.ufug.2022.127679.
-
-Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., **Pawlak, C.**, Trouille, L., Byrnes, J. E., 	Bell, T., & Cavanaugh, K. C. (2022). Automated satellite remote sensing of giant kelp at the Falkland Islands (Islas Malvinas). PloS one, 17(1), e0257933. https://doi.org/10.1371/journal.pone.0257933.
-
-# In Preparation
-Ventura, J., **Pawlak, C.**, Honsberger, M., Gonsalves, C., Rice, J., Love, N., Han, S., Nguyen, 	V., Sugano, K., Doremus, J., Fricker, A. G., Yost, J., & Ritter, M. (2022). Individual Tree 	Detection in Large-Scale Urban Environments using High-Resolution Multispectral 	Imagery. [Under Revision]. 
-https://doi.org/10.48550/arXiv.2208.10607.
-
-
-
-
-
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en).
-
+My love of urban trees is driven by a deep sense of curiosity that was cultivated into a passion for research with guidance from mentors. Through my mentors, I learned how to be curious about the plants surrounding me, ask meaningful questions, and design data-driven research projects. I believe inclusive mentorship and support for students of all backgrounds is the best way that I can promote diversity and inclusion in STEM and help cultivate great scientists. My teaching and mentoring philosophy is rooted in cultivating a sense of wonder and curiosity in my students, inspiring them to use the scientific process in their day-to-day lives, as well as their careers. I had a phenomenal teacher who started each class by asking his students to describe something beautiful they saw that week, then listened carefully and attentively to each student, providing us with the sense that he cared about us, and that his classroom was a safe space to engage and ask questions. As a teacher, I often emulate his practices. When I teach, my hope is to cultivate a sense of wonder in my students, show that I have a stake in their learning and care about each student, and give clear and consistent expectations about how to succeed in my course or research. When leaving my lab or classroom, I hope my students have gained confidence in developing challenging technical skills and applied the scientific process to answer a question they are curious about. To see specific students or projects I have advised, please see my CV.
