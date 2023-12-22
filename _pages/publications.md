@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Rendon, P., Love, N., **Pawlak, C.**, Yost, J., Ritter, M., & Doremus, J. (2024). Street tree diversity and urban heat. Urban Forestry & Urban Greening, 91, 128180. https://doi.org/10.1016/j.ufug.2023.128180
+
 **Pawlak, C. C.**, Love, N., Fricker, A., Doremus, J., Yost, J., & Ritter, M. (2023). California’s Native Trees and Their Use in the Urban Forest. Urban Forestry & Urban Greening, 89,
-128125. [https://doi.org/10.1016/j.ufug.2023.128125](https://doi.org/10.1016/j.ufug.2023.128125).
+128125. https://doi.org/10.1016/j.ufug.2023.128125.
 
 K. C., Cavanaugh, Cavanaugh, K.C. , **Pawlak, C. C.**, Bell, T., & Saccamano, V. (2023). 
 CubeSats show persistence of bull kelp refugia amidst a regional collapse in California. Remote Sensing of Environment, 290, 113521. https://doi.org/10.1016/j.rse.2023.113521.
@@ -22,7 +24,7 @@ Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., **Pawlak, C.**, Trouille,
 Ventura, J., **Pawlak, C.**, Honsberger, M., Gonsalves, C., Rice, J., Love, N., Han, S., Nguyen, 	V., Sugano, K., Doremus, J., Fricker, A. G., Yost, J., & Ritter, M. (2022). Individual Tree 	Detection in Large-Scale Urban Environments using High-Resolution Multispectral 	Imagery. [Under Revision]. 
 https://doi.org/10.48550/arXiv.2208.10607.
 
-Rendon, P., Love, N., **Pawlak, C.**, Yost, J., Ritter, M., and Doremus, J. (2022) Street Tree Diversity and Urban Heat. http://dx.doi.org/10.2139/ssrn.4127061 [Under Review]
+
 
 
 
