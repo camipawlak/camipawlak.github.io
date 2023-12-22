@@ -32,5 +32,5 @@ Becerra, M., Rivera, O., **Pawlak, C.**, Crocker, A., & Pinto, N. (2022). Base d
 
 
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en). 
 
