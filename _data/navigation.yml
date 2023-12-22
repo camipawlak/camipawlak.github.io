@@ -20,5 +20,5 @@ main:
     
   - title: "ML205"
     url: /ML205/
-    nav_exclude: true
+    nav_exclude: true 
 
