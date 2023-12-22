@@ -5,13 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Courses Taught
+# Courses
+
 
 **Advanced GIS, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
 
+
 **Field Botany, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
 
+
 **Introductory Botany, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Fall 2022)
+
 
 **Introductory Ecology and Evolution, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Spring 2022)
 
