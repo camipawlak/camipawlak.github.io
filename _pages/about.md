@@ -25,6 +25,6 @@ I am passionate about combining field data and remote sensing to develop new way
 
 Minors: Conservation Biology, Geospatial Information Science and Technology
 
-## Current Work
+
 
 
