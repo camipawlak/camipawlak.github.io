@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: " Selected Publications"
+title: " Courses"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Courses
 
 
 **Advanced GIS, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
