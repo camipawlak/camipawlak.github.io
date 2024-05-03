@@ -5,6 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
+**OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
+*April 2024 | Cultivating Competence | Presentation*
+
 **Data-Driven Urban Forest: How We Can Use Data and Tools to Manage Urban Forests.** Professional Tree Care Association of San Diego.
 *August 2023 | Into the Canopy| Invited Presentation*
 
