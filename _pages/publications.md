@@ -4,6 +4,7 @@ title: " Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+Ventura, J., **Pawlak, C.**, Honsberger, M., Gonsalves, C., Rice, J., Love, N. L. R., Han, S., Nguyen, V., Sugano, K., Doremus, J., Fricker, G. A., Yost, J., & Ritter, M. (2024). Individual tree detection in large-scale urban environments using high-resolution multispectral imagery. International Journal of Applied Earth Observation and Geoinformation, 130, 103848. https://doi.org/10.1016/j.jag.2024.103848
 
 Rendon, P., Love, N., **Pawlak, C.**, Yost, J., Ritter, M., & Doremus, J. (2024). Street tree diversity and urban heat. *Urban Forestry & Urban Greening*, 91, 128180. https://doi.org/10.1016/j.ufug.2023.128180
 
@@ -20,12 +21,12 @@ Love, N. L., Nguyen, V., **Pawlak, C.**, Pineda, A., Reimer, J. L., Yost, J. M.,
 
 Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., **Pawlak, C.**, Trouille, L., Byrnes, J. E., 	Bell, T., & Cavanaugh, K. C. (2022). Automated satellite remote sensing of giant kelp at the Falkland Islands (Islas Malvinas). *PloS one*, 17(1), e0257933. https://doi.org/10.1371/journal.pone.0257933.
 
-# In Preparation
-Ventura, J., **Pawlak, C.**, Honsberger, M., Gonsalves, C., Rice, J., Love, N., Han, S., Nguyen, 	V., Sugano, K., Doremus, J., Fricker, A. G., Yost, J., & Ritter, M. (2022). Individual Tree 	Detection in Large-Scale Urban Environments using High-Resolution Multispectral 	Imagery. [Under Revision]. 
-https://doi.org/10.48550/arXiv.2208.10607.
 
 
 # Datasets
+J. Ventura, **C. Pawlak,** M. Honsberger, C. Gonsalves, J. Rice, N. Love, S. Han, V. Nguyen, K. Sugano, J. Doremus, G.A. Fricker, J. Yost & M. Ritter (2024). Results: Individual Tree Detection in Large-Scale Urban Environments using High-Resolution Multispectral Imagery [dataset]. *Open Sience Framework.* DOI 10.17605/OSF.IO/4S859
+
+
 Baiza, J., **Pawlak, C.**, Baehr, A., Yost, J., Ritter, M., & Fricker, A. (2022). Mapping Social and Environmental Justice Across California Schools (Version V4) [dataset]. *Harvard Dataverse.* https://doi.org/10.7910/DVN/7NNBJD
 
 Becerra, M., Rivera, O., **Pawlak, C.**, Crocker, A., & Pinto, N. (2022). Base de datos de cobertura de cultivos de cacao en la Amazonia Peruana (Version V3) [dataset]. *Harvard Dataverse.* https://doi.org/10.7910/DVN/XMQNC2
