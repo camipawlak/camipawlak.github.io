@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Recently"
-    url: /recently/
+  #- title: "Recently"
+    #url: /recently/
     
  # - title: "ML205"
   #  url: /ML205/
