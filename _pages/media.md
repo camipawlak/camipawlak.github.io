@@ -25,4 +25,6 @@ Shot Hole Borer and Extent of Accompanying Fusarium Dieback Disease Spread in Re
 Hodel, D. , Falco, C., **Pawlak, C.**, &  Komen, J. (2022). Testing treatment effectiveness for 
 Invasive Shot Hole Borers. *Western Arborist.*
 
+# Maps published in:
+Keil, D., & Hoover, R. (2023). Vascular Plants of San Luis Obispo County, California (2nd ed.). *Pacific Street Publishing.*
 
