@@ -4,6 +4,8 @@ title: " Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+Thorne, J. H., Godfrey, J. M., Boynton, R. M., Shapiro, K. D., Stern, M. A., **Pawlak, C.**, Ritter, M., & Choe, H. (2025). A spatial triage of at-risk conifer forests to support seed collection efforts and sustainable forestry. Journal of Environmental Management, 373,
+
 Ventura, J., **Pawlak, C.**, Honsberger, M., Gonsalves, C., Rice, J., Love, N. L. R., Han, S., Nguyen, V., Sugano, K., Doremus, J., Fricker, G. A., Yost, J., & Ritter, M. (2024). Individual tree detection in large-scale urban environments using high-resolution multispectral imagery. International Journal of Applied Earth Observation and Geoinformation, 130, 103848. https://doi.org/10.1016/j.jag.2024.103848
 
 Rendon, P., Love, N., **Pawlak, C.**, Yost, J., Ritter, M., & Doremus, J. (2024). Street tree diversity and urban heat. *Urban Forestry & Urban Greening*, 91, 128180. https://doi.org/10.1016/j.ufug.2023.128180
