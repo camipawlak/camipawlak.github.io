@@ -4,21 +4,25 @@ title: " Courses"
 permalink: /teaching/
 author_profile: true
 ---
+**Introductory GIS, Teaching Assistant** -  University of California, Los Angeles (Spring 2025)
 
+**People and Earth's Ecosystems, Teaching Assistant** -  University of California, Los Angeles (Winter 2025)
 
+**Invasive Species, Teaching Assistant** -  University of California, Los Angeles (Fall 2024)
 
 **Advanced GIS, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
 
-
 **Field Botany, Teaching Assistant** -  California Polytechnic State University, San Luis Obispo (Spring 2023)
 
-
 **Introductory Botany, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Fall 2022)
-
 
 **Introductory Ecology and Evolution, Lab Instructor** -  California Polytechnic State University, San Luis Obispo (Spring 2022)
 
 
 # Mentoring 
 
-My love of urban trees is driven by a deep sense of curiosity that was cultivated into a passion for research with guidance from mentors. Through my mentors, I learned how to be curious about the plants surrounding me, ask meaningful questions, and design data-driven research projects. I believe inclusive mentorship and support for students of all backgrounds is the best way that I can promote diversity and inclusion in STEM and help cultivate great scientists. My teaching and mentoring philosophy is rooted in cultivating a sense of wonder and curiosity in my students, inspiring them to use the scientific process in their day-to-day lives, as well as their careers. I had a phenomenal teacher who started each class by asking his students to describe something beautiful they saw that week, then listened carefully and attentively to each student, providing us with the sense that he cared about us, and that his classroom was a safe space to engage and ask questions. As a teacher, I often emulate his practices. When I teach, my hope is to cultivate a sense of wonder in my students, show that I have a stake in their learning and care about each student, and give clear and consistent expectations about how to succeed in my course or research. When leaving my lab or classroom, I hope my students have gained confidence in developing challenging technical skills and applied the scientific process to answer a question they are curious about. To see specific students or projects I have advised, please see my CV.
+My passion for urban trees is deeply rooted in a curiosity that was nurtured through research and mentorship. With the guidance of my mentors, I learned to critically engage with the natural world, ask meaningful scientific questions, and design data-driven research projects. I believe that fostering inclusive mentorship and supporting students from diverse backgrounds is one of the most effective ways to promote equity in STEM and cultivate the next generation of scientists.
+
+My teaching and mentoring philosophy is centered on inspiring curiosity, encouraging independent inquiry, and equipping students with the skills to apply the scientific process both in their careers and everyday lives. I strive to create an environment where students feel valued, supported, and empowered to take ownership of their learning. Through clear expectations and consistent guidance, I help them develop confidence in technical skills and research methodologies.
+
+Ultimately, my goal is for students leaving my lab or classroom to not only gain expertise but also a deeper appreciation for scientific exploration. For a detailed overview of the students I have mentored and the research projects I have advised, please refer to my CV.
