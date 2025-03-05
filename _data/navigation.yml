@@ -15,10 +15,4 @@ main:
   - title: "CV"
     url: /cv/
 
-  #- title: "Recently"
-    #url: /recently/
-    
- # - title: "ML205"
-  #  url: /ML205/
-  #  nav_exclude: true 
 
