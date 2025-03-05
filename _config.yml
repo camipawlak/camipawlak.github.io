@@ -205,7 +205,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # pages
   - scope:
       path: ""
       type: pages
