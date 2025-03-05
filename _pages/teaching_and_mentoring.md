@@ -26,3 +26,5 @@ My passion for urban trees is deeply rooted in a curiosity that was nurtured thr
 My teaching and mentoring philosophy is centered on inspiring curiosity, encouraging independent inquiry, and equipping students with the skills to apply the scientific process both in their careers and everyday lives. I strive to create an environment where students feel valued, supported, and empowered to take ownership of their learning. Through clear expectations and consistent guidance, I help them develop confidence in technical skills and research methodologies.
 
 Ultimately, my goal is for students leaving my lab or classroom to not only gain expertise but also a deeper appreciation for scientific exploration. For a detailed overview of the students I have mentored and the research projects I have advised, please refer to my CV.
+
+Interested in getting involved in research? Please send me an email: camipawlak @ g.ucla.edu
