@@ -27,6 +27,8 @@ My teaching and mentoring philosophy is centered on inspiring curiosity, encoura
 
 Ultimately, my goal is for students leaving my lab or classroom to not only gain expertise but also a deeper appreciation for scientific exploration. For a detailed overview of the students I have mentored and the research projects I have advised, please refer to my CV.
 
+Most recently, I had the pleasure of being a graduate mentor at NASA's Student Airbrone Research Program. See my student's work here: https://www.nasa.gov/science-research/earth-science/sarp-west-2025-oceans-group/
+
 <img src="/images/sarp-west-loiacono-6994.jpg" alt="" width="700">
 Image credit to NASA/Milan Loiacono
 
