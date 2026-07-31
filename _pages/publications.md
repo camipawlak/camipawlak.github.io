@@ -2,7 +2,6 @@
 layout: archive
 title: " Selected Publications"
 permalink: /publications/
-author_profile: true
 ---
 **Pawlak, C. C.**, Yost, J., Ventura, J., Guizan, G., Arnold, S., Okin, G., Cavanaugh, K., Fricker, G. A., Ritter, M., & Gillespie, T. W. (2026). Mapping California’s Urban Forest at Scale: An Error-Adjusted Canopy Time Series for Monitoring Change. Ecology. https://doi.org/10.64898/2026.05.04.722774 [Pre-print, Under Review @ PLOS ONE]
 

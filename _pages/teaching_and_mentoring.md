@@ -2,7 +2,6 @@
 layout: archive
 title: " Courses"
 permalink: /teaching/
-author_profile: true
 ---
 **NASA SARP West, Oceans Group - Graduate Mentor** - NASA, Irvine, CA (Summer 2025)
 

@@ -1,0 +1,137 @@
+/* ==========================================================================
+   HOME / HERO
+   ========================================================================== */
+
+.hero {
+  max-width: 40em;
+  margin: 1em auto 3em;
+  text-align: center;
+
+  &__portrait {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1em;
+  }
+
+  &__name {
+    margin-bottom: 0.25em;
+    font-family: $sans-serif;
+  }
+
+  &__tagline {
+    font-size: $type-size-4;
+    color: $light-gray;
+    margin-bottom: 1.25em;
+  }
+
+  &__intro {
+    font-size: $type-size-4;
+    line-height: 1.6;
+    text-align: left;
+    margin-bottom: 1.5em;
+  }
+}
+
+.research-areas {
+  max-width: 60em;
+  margin: 0 auto 3em;
+
+  &__title {
+    text-align: center;
+    margin-bottom: 1.25em;
+  }
+
+  &__grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    justify-content: center;
+  }
+}
+
+.research-card {
+  flex: 1 1 260px;
+  max-width: 320px;
+  padding: 1.25em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+
+  h3 {
+    margin-top: 0;
+    font-size: $type-size-4;
+  }
+
+  p {
+    font-size: $type-size-5;
+    color: $dark-gray;
+    margin-bottom: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.recent-news {
+  max-width: 46em;
+  margin: 0 auto 2em;
+
+  &__title {
+    text-align: center;
+    margin-bottom: 1em;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    padding: 0.6em 0;
+    border-bottom: 1px solid $border-color;
+    font-size: $type-size-5;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .recent-news__date {
+    display: inline-block;
+    min-width: 4em;
+    font-weight: 700;
+    color: $light-gray;
+    margin-right: 0.5em;
+  }
+}
+
+.research-section {
+  max-width: 46em;
+  margin: 0 auto 3em;
+
+  img {
+    width: 100%;
+    border-radius: $border-radius;
+    margin-bottom: 1em;
+  }
+
+  h2 {
+    border-bottom: 1px solid $border-color;
+    padding-bottom: 0.3em;
+  }
+
+  &__pubs {
+    font-size: $type-size-6;
+    background-color: $code-background-color;
+    padding: 1em 1.5em;
+    border-radius: $border-radius;
+
+    p {
+      margin: 0.5em 0;
+    }
+  }
+}

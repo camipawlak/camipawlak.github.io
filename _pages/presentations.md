@@ -2,7 +2,6 @@
 layout: archive
 title: "Talks and Posters"
 permalink: /presentations/
-author_profile: true
 ---
 
 **Tracking California’s Urban Forest: Big Data and Remote Sensing for Smarter Management.** Climate Solutions Now.

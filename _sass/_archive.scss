@@ -4,14 +4,17 @@
 
 .archive {
   margin-bottom: 2em;
+  max-width: 46em;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include span(12 of 12);
   }
 
   a {

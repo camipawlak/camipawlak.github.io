@@ -2,7 +2,6 @@
 layout: archive
 title: "Media"
 permalink: /media/
-author_profile: true
 ---
 
 Slater, E. (2024) Shaping California’s Future: Cal Poly to Lead the Charge for Greener Cities. *College of Engineering Connection.* https://ceng.calpoly.edu/connection/2024/11/shaping-californias-future-cal-poly-to-lead-the-charge-for-greener-cities/
