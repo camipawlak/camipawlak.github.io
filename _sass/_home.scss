@@ -7,31 +7,37 @@
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   margin-top: -2em;
-  margin-bottom: 2em;
+  margin-bottom: 0;
+  height: 180px;
   background-size: cover;
-  background-position: center;
+  background-position: center 65%;
   background-repeat: no-repeat;
 
-  &__overlay {
-    background-color: rgba(255, 255, 255, 0.82);
-    text-align: center;
-    padding: 3em 1em 2.5em;
+  @include breakpoint($medium) {
+    height: 260px;
   }
 }
 
 .hero {
   max-width: 40em;
-  margin: 1em auto 3em;
+  margin: 0 auto 3em;
   text-align: center;
 
   &__portrait {
-    width: 160px;
-    height: 160px;
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: -75px auto 1em;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 1em;
-    border: 4px solid #fff;
+    border: 5px solid $background-color;
     box-shadow: $box-shadow;
+
+    @include breakpoint($medium) {
+      width: 170px;
+      height: 170px;
+      margin-top: -85px;
+    }
   }
 
   &__name {
@@ -42,7 +48,7 @@
   &__tagline {
     font-size: $type-size-4;
     color: $light-gray;
-    margin-bottom: 0;
+    margin-bottom: 1.5em;
   }
 
   &__intro {
@@ -76,11 +82,18 @@
   max-width: 320px;
   padding: 1.25em;
   border: 1px solid $border-color;
+  border-top: 3px solid $primary-color;
   border-radius: $border-radius;
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: $box-shadow;
+  }
 
   h3 {
     margin-top: 0;
     font-size: $type-size-4;
+    color: $primary-color;
   }
 
   p {
@@ -124,7 +137,7 @@
     display: inline-block;
     min-width: 4em;
     font-weight: 700;
-    color: $light-gray;
+    color: $primary-color;
     margin-right: 0.5em;
   }
 }
@@ -134,14 +147,22 @@
   margin: 0 auto 3em;
 
   img {
+    display: block;
     width: 100%;
+    height: 220px;
+    object-fit: cover;
     border-radius: $border-radius;
     margin-bottom: 1em;
+
+    @include breakpoint($medium) {
+      height: 260px;
+    }
   }
 
   h2 {
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $primary-color;
     padding-bottom: 0.3em;
+    display: inline-block;
   }
 
   &__pubs {
@@ -149,6 +170,7 @@
     background-color: $code-background-color;
     padding: 1em 1.5em;
     border-radius: $border-radius;
+    border-left: 3px solid $primary-color;
 
     p {
       margin: 0.5em 0;

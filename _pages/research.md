@@ -66,8 +66,6 @@ Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., Pawlak, C., et al. (2022)
 
 ## Equity & Human Well-Being
 
-<img src="/images/fun_research_team_tree.jpg" alt="Camille Pawlak with a research team gathered under a large tree">
-
 Mapping ecosystems is only half the question &mdash; the other half is who has access to the benefits they provide, from cleaner air to cooler streets. I've mapped environmental justice indicators across California schools, and my ongoing and in-prep work looks at how public versus private tree ownership shapes tree equity, and how urban forest composition affects air quality in Los Angeles neighborhoods. I'm also a contributing author on CAL FIRE's statewide urban forest canopy plan.
 
 <div class="research-section__pubs" markdown="1">
