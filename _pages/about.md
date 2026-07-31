@@ -9,10 +9,15 @@ redirect_from:
   - /about.html
 ---
 
+<div class="hero-banner" style="background-image: url('/images/good_header.jpg');">
+  <div class="hero-banner__overlay">
+    <img src="/images/profile.png" alt="Camille Pawlak" class="hero__portrait">
+    <h1 class="hero__name">Camille Pawlak</h1>
+    <p class="hero__tagline">PhD Candidate, UCLA Geography &middot; Staff Scientist, Urban Forest Institute</p>
+  </div>
+</div>
+
 <div class="hero">
-  <img src="/images/profile.png" alt="Camille Pawlak" class="hero__portrait">
-  <h1 class="hero__name">Camille Pawlak</h1>
-  <p class="hero__tagline">PhD Candidate, UCLA Geography &middot; Staff Scientist, Urban Forest Institute</p>
   <p class="hero__intro">I study how environmental change plays out across scales &mdash; where biodiversity, ecosystem services, and human well-being and equity overlap. My work combines satellite, aerial, UAV, and field data to monitor terrestrial, urban, and coastal ecosystems, from California&rsquo;s urban forests to kelp canopies, intertidal zones, and oil slicks along the Santa Barbara coast.</p>
   <a href="/research/" class="btn btn--primary">My Research &rarr;</a>
 </div>

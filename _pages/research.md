@@ -14,6 +14,8 @@ I use remote sensing, field data, and machine learning to monitor environmental 
 
 ## Urban Forests
 
+<img src="/images/uf_remote_sense.jpg" alt="Aerial remote sensing view of a Los Angeles neighborhood showing tree canopy and rooftops">
+
 California's cities are home to millions of trees, but until recently there was no consistent, statewide picture of where they are, what species they are, or how canopy cover is changing. I build neural network models that use satellite and aerial imagery to map individual trees and canopy cover across urban California, and I study how tree species diversity and composition shape outcomes like urban heat.
 
 This work spans mapping the distribution and use of California's native trees in cities, detecting individual trees at scale from high-resolution multispectral imagery, showing that street tree diversity mitigates urban heat, and building an error-adjusted canopy time series to track canopy change &mdash; including losses from the 2025 Eaton and Palisades fires.
@@ -31,6 +33,8 @@ Rendon, P., Love, N., Pawlak, C., Yost, J., Ritter, M., & Doremus, J. (2024). St
 
 Pawlak, C. C., Love, N. L. R., et al. (2023). California's native trees and their use in the urban forest. *Urban Forestry & Urban Greening*, 89, 128125. <https://doi.org/10.1016/j.ufug.2023.128125>
 </div>
+
+<img src="/images/nice_tree.jpg" alt="A flowering street tree in Los Angeles">
 </div>
 
 ---
@@ -39,7 +43,7 @@ Pawlak, C. C., Love, N. L. R., et al. (2023). California's native trees and thei
 
 ## Coastal Ecosystems
 
-<img src="/images/sarp-west-loiacono-6994.jpg" alt="Camille Pawlak's NASA SARP Oceans Group cohort in front of a research aircraft">
+<img src="/images/coastal_kelp.jpg" alt="Aerial view of a kelp forest along the California coast">
 
 Along the California coast, I track how kelp forests and intertidal zones are responding to a changing climate, using CubeSats, drones, and unoccupied aerial vehicles (UAVs) to monitor change at scales that ground surveys can't cover alone. This has included documenting the persistence of bull kelp refugia amid a regional collapse, mapping emergent kelp canopy after an ecological regime shift, and building automated satellite methods to track giant kelp as far away as the Falkland Islands.
 
@@ -61,6 +65,8 @@ Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., Pawlak, C., et al. (2022)
 <div class="research-section" markdown="1">
 
 ## Equity & Human Well-Being
+
+<img src="/images/fun_research_team_tree.jpg" alt="Camille Pawlak with a research team gathered under a large tree">
 
 Mapping ecosystems is only half the question &mdash; the other half is who has access to the benefits they provide, from cleaner air to cooler streets. I've mapped environmental justice indicators across California schools, and my ongoing and in-prep work looks at how public versus private tree ownership shapes tree equity, and how urban forest composition affects air quality in Los Angeles neighborhoods. I'm also a contributing author on CAL FIRE's statewide urban forest canopy plan.
 
