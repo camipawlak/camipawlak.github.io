@@ -29,7 +29,7 @@ Hodel, D. , Falco, C., **Pawlak, C.**, &  Komen, J. (2022). Testing treatment ef
 Invasive Shot Hole Borers. *Western Arborist.*
 
 # Maps published in:
-Camille Pawlak. 2025. Maps created for California’s Trees: A Field Guide to the Native Species (Authors: Matt Ritter and Michael Edward Kauffmann). *Backcountry Press.*
+Ritter, M., & Kauffmann, M. E. (2025). California’s Trees: A Field Guide to the Native Species. *Backcountry Press.*
 
 Keil, D., & Hoover, R. (2023). Vascular Plants of San Luis Obispo County, California (2nd ed.). *Pacific Street Publishing.*
 
