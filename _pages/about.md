@@ -14,8 +14,8 @@ redirect_from:
 <div class="hero">
   <img src="/images/profile.png" alt="Camille Pawlak" class="hero__portrait">
   <h1 class="hero__name">Camille Pawlak</h1>
-  <p class="hero__tagline">PhD Candidate, UCLA Geography &middot; Staff Scientist, Urban Forest Institute</p>
-  <p class="hero__intro">I study how environmental change plays out across scales &mdash; where biodiversity, ecosystem services, and human well-being and equity overlap. My work combines satellite, aerial, UAV, and field data to monitor terrestrial, urban, and coastal ecosystems, from California&rsquo;s urban forests to kelp canopies, intertidal zones, and oil slicks along the Santa Barbara coast.</p>
+  <p class="hero__tagline">Ph.D., UCLA Geography &middot; Staff Scientist, Urban Forest Institute</p>
+  <p class="hero__intro">I'm a remote sensing scientist who studies California's urban forests, from statewide canopy mapping to how trees recover after wildfire. I finished my Ph.D. in Geography at UCLA in 2026, advised by Dr. Tom Gillespie (previously Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker, and Dr. Kyle Cavanaugh). My work is applied: I build tools that cities and land managers use to make decisions about the trees that keep neighborhoods cooler, healthier, and more resilient.</p>
   <a href="/research/" class="btn btn--primary">My Research &rarr;</a>
 </div>
 
@@ -23,21 +23,21 @@ redirect_from:
   <h2 class="research-areas__title">Research Areas</h2>
   <div class="research-areas__grid">
     <div class="research-card">
-      <a href="/research/#urban-forests">
-        <h3>Urban Forests</h3>
-        <p>Mapping California&rsquo;s urban canopy at scale with neural networks and satellite/aerial imagery, and studying how tree diversity shapes urban heat and other ecosystem benefits.</p>
+      <a href="/research/#biodiversity-ecosystem-services">
+        <h3>Biodiversity &amp; Ecosystem Services</h3>
+        <p>How tree diversity and composition shape the benefits urban and coastal ecosystems provide, from cooler streets to healthier kelp forests.</p>
       </a>
     </div>
     <div class="research-card">
-      <a href="/research/#coastal-ecosystems">
-        <h3>Coastal Ecosystems</h3>
-        <p>Tracking bull kelp refugia, intertidal zones, and oil slicks along the California coast using CubeSats, drones, and field-based remote sensing.</p>
+      <a href="/research/#remotely-sensed-change">
+        <h3>Remotely Sensed Change</h3>
+        <p>Using satellite, aerial, and drone imagery to track how forests and coastlines change over time, including canopy loss, removals, and recovery after fire.</p>
       </a>
     </div>
     <div class="research-card">
-      <a href="/research/#equity-human-well-being">
-        <h3>Equity &amp; Human Well-Being</h3>
-        <p>Asking who has access to the benefits of urban and coastal ecosystems &mdash; and who is left out.</p>
+      <a href="/research/#human-well-being-equity">
+        <h3>Human Well-Being &amp; Equity</h3>
+        <p>Asking who has access to the benefits these ecosystems provide, and helping cities plan more equitably.</p>
       </a>
     </div>
   </div>
@@ -52,18 +52,15 @@ redirect_from:
     <li><span class="recent-news__date">2025</span> Served as a graduate mentor for NASA&rsquo;s Student Airborne Research Program (SARP), Oceans Group</li>
     <li><span class="recent-news__date">2025</span> Invited talk, &ldquo;Tracking California&rsquo;s Urban Forest,&rdquo; Climate Solutions Now</li>
   </ul>
+  <p class="recent-news__media">Work mentioned in: <a href="https://ceng.calpoly.edu/connection/2024/11/shaping-californias-future-cal-poly-to-lead-the-charge-for-greener-cities/">College of Engineering Connection</a> (2024), <a href="https://cosam.calpoly.edu/intersections-2023/urban-tree-diversity">Intersections Magazine</a> (2023), and <a href="https://www.calpoly.edu/news/beating-heat-students-map-california-tree-canopy-cool-cities-climate-warms">Cal Poly News</a> (2023).</p>
 </div>
 
 ---
 
-I am a Ph.D. student in the Geography Department at UCLA. I study California's urban forests. Previous work has focused on the distribution of California's native trees, the composition of species and trees growing in California's urban forests, the development of a neural network to predict the location of every tree in urban California, mapping cacao in the Amazon, how street tree biodiversity might predict urban temperatures, tracking changes in kelp canopy over time, and using UAVs to monitor intertidal zones.
-
-I am passionate about combining field data and remote sensing to develop new ways track and map natural resources. Currently, I am working on using computer vision to assess ways to track changes in urban canopy over time using both active and passive remote sensing products across California. At UCLA, I work with Dr. Tom Gillespie. Previously, I've been advised by Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker and Dr. Kyle Cavanaugh.
-
 # Education
 
 ### Ph.D. Geography
-*University of California, Los Angeles* In Progress
+*University of California, Los Angeles* 2026
 
 ### M.S. Biology
 *California Polytechnic State University, San Luis Obispo* 2023
@@ -72,7 +69,3 @@ I am passionate about combining field data and remote sensing to develop new way
 *University of California, Los Angeles* 2020
 
 Minors: Conservation Biology, Geospatial Information Science and Technology
-
-
-
-

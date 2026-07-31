@@ -1,8 +1,16 @@
 ---
 layout: archive
-title: " Selected Publications"
+title: "Publications & Presentations"
 permalink: /publications/
+redirect_from:
+  - /presentations/
+  - /media/
 ---
+
+You can find all of my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en).
+
+# Selected Publications
+
 **Pawlak, C. C.**, Yost, J., Ventura, J., Guizan, G., Arnold, S., Okin, G., Cavanaugh, K., Fricker, G. A., Ritter, M., & Gillespie, T. W. (2026). Mapping California’s Urban Forest at Scale: An Error-Adjusted Canopy Time Series for Monitoring Change. Ecology. https://doi.org/10.64898/2026.05.04.722774 [Pre-print, Under Review @ PLOS ONE]
 
 Zhang, Y., Wu, K., Wang, H., Pfannerstill, E. Y., Nagalingam, S., Coggon, M. M., Stockwell, C., Ruiz, V. M., Ho, C., Yu, Y., Novelly, J., **Pawlak, C.**, Kim, S., Warneke, C., Goldstein, A. H., & Guenther, A. B. (2026). Reconciling observed and modeled estimates of urban terpenoid emissions. Nature Communications. https://doi.org/10.1038/s41467-026-75075-9
@@ -32,31 +40,80 @@ Love, N. L., Nguyen, V., **Pawlak, C.**, Pineda, A., Reimer, J. L., Yost, J. M.,
 
 Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., **Pawlak, C.**, Trouille, L., Byrnes, J. E., 	Bell, T., & Cavanaugh, K. C. (2022). Automated satellite remote sensing of giant kelp at the Falkland Islands (Islas Malvinas). *PloS one*, 17(1), e0257933. https://doi.org/10.1371/journal.pone.0257933.
 
-
-
 # Datasets
-J. Ventura, **C. Pawlak,** M. Honsberger, C. Gonsalves, J. Rice, N. Love, S. Han, V. Nguyen, K. Sugano, J. Doremus, G.A. Fricker, J. Yost & M. Ritter (2024). Results: Individual Tree Detection in Large-Scale Urban Environments using High-Resolution Multispectral Imagery [dataset]. *Open Sience Framework.* DOI 10.17605/OSF.IO/4S859
 
+J. Ventura, **C. Pawlak,** M. Honsberger, C. Gonsalves, J. Rice, N. Love, S. Han, V. Nguyen, K. Sugano, J. Doremus, G.A. Fricker, J. Yost & M. Ritter (2024). Results: Individual Tree Detection in Large-Scale Urban Environments using High-Resolution Multispectral Imagery [dataset]. *Open Sience Framework.* DOI 10.17605/OSF.IO/4S859
 
 Baiza, J., **Pawlak, C.**, Baehr, A., Yost, J., Ritter, M., & Fricker, A. (2022). Mapping Social and Environmental Justice Across California Schools (Version V4) [dataset]. *Harvard Dataverse.* https://doi.org/10.7910/DVN/7NNBJD
 
 Becerra, M., Rivera, O., **Pawlak, C.**, Crocker, A., & Pinto, N. (2022). Base de datos de cobertura de cultivos de cacao en la Amazonia Peruana (Version V3) [dataset]. *Harvard Dataverse.* https://doi.org/10.7910/DVN/XMQNC2
 
-
-
 # In Preparation
+
 Love, N.L.R., E.L. Grady, **C. Pawlak**, J. Yost, J. Ventura, G.A. Fricker, J. Doremus, and M. Ritter. In prep. Patterns in the distribution of public vs. private urban trees: Implications for tree equity in one of the world’s largest urban forests. Target journal: Urban Forestry & Urban Greening.
 
 Johns J., Love, N.L.R., **C. Pawlak**, J. Yost, and M. Ritter. In Prep. Using climatic niches to plan climate resilient urban forests. Target journal: Urban Forestry & Urban Greening.
 
 **C. Pawlak**, R. Kenny, T. Ruiz, J. Schedler, K. Veerasingam, A. Fricker, J. Yost, and M. Ritter. In Prep. Integrating Arborist Records and Remote Sensing to Improve Urban Tree Allometric Equations and Benefit Estimates. Target journal: Scientific Data.
 
-
-
 # Reports and Professional Publications
+
 CAL FIRE Urban and Community Forestry & Urban Forest Ecosystems Institute. (2026). Greening the Golden State: Urban Forest Canopy Plan for California [Draft strategic plan]. Named collaborator and contributing author.
 
+# Presentations
 
+**Tracking California’s Urban Forest: Big Data and Remote Sensing for Smarter Management.** Climate Solutions Now.
+*February 2025 | Invited Talk*
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=nJVGrWIAAAAJ&hl=en). 
+**Harnessing Neural Networks for Broad-Scale Urban Canopy Cover Mapping: A Remote Sensing Approach in California.** American Geophysical Union annual conference, Washington D.C.
+*December 2024 | Presentation*
 
+**OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
+*April 2024 | Cultivating Competence | Presentation*
+
+**Data-Driven Urban Forest: How We Can Use Data and Tools to Manage Urban Forests.** Professional Tree Care Association of San Diego.
+*August 2023 | Into the Canopy| Invited Presentation*
+
+**OpenCanopy: Leveraging aerial imagery and deep learning to delineate California’s urban tree canopy.** SIGKDD Conference on Knowledge, Discovery, and Data Mining. 
+*August 2023 | KDD 2023 Southern California Data Science Day | Poster*
+
+**Trends in California’s Native Trees in the Urban Environment.** California Polytechnic University, San Luis Obispo. 
+*May 2023 | Cal Poly College of Science & Mathematics 2023 Conference| Presentation*
+
+**Data-Driven Urban Forest: How We Can Use Data and Tools to Manage Urban Forests.** California ReLeaf. 
+*May 2023 | ReLeaf Network Retreat | Invited Presentation*
+
+**New Tools for the Urban Forest Ecosystem Institute.** The Western Chapter of the International Society of Arboriculture. 
+*May 2023 | Digging In: An Exploration of Arboriculture | Invited Presentation*
+
+**Trends in California’s Native Trees in the Urban Environment.** San Luis Obispo GIS Users 	Group.
+*November 2022 | San Luis Obispo GIS Day | Poster*
+
+**May the Forest Be With You: leveraging GEDI's spaceborne LiDAR data for tropical ecosystem applications.** San Luis Obispo GIS Users 	Group.
+*November 2022 | San Luis Obispo GIS Day | Poster*
+
+**Trends in California’s Native Trees in the Urban Environment.** The Britton Fund.
+*November 2022 | Putting Research to Work | Invited Presentation*
+
+**Data-Driven Urban Forest: Using Data to Make Better Species Selections.** California 	Urban Forests Conference.
+*October 2022 | California Urban Forest Council: Lead with Trees Conference | Invited Presentation* 
+
+**Toward Automatic Urban Forest Inventories with Remote Sensing.** Data Strategic 	Research Initiative, California Polytechnic State University. 
+*June 2022 | Data Strategic Research Initiative, Cal Poly, San Luis Obispo | Poster*
+
+# Magazine Articles
+
+**Pawlak, C.**, Love, N., Yost, J., Ritter, M. (2023). Native to Where? California’s Native Trees and 
+Their Use in the Urban Environment. *Western Arborist.* 
+
+Komen, J., Falco, C., **Pawlak, C.**, & Hodel, D. (2023). Gallery Characteristics of the Invasive 
+Shot Hole Borer and Extent of Accompanying Fusarium Dieback Disease Spread in Relation to the CODIT Model and Principles in London Plane Trees. *Western Arborist.* 
+
+Hodel, D. , Falco, C., **Pawlak, C.**, &  Komen, J. (2022). Testing treatment effectiveness for 
+Invasive Shot Hole Borers. *Western Arborist.*
+
+# Maps Published In
+
+Ritter, M., & Kauffmann, M. E. (2025). California’s Trees: A Field Guide to the Native Species. *Backcountry Press.*
+
+Keil, D., & Hoover, R. (2023). Vascular Plants of San Luis Obispo County, California (2nd ed.). *Pacific Street Publishing.*
