@@ -15,7 +15,7 @@ redirect_from:
   <img src="/images/profile.png" alt="Camille Pawlak" class="hero__portrait">
   <h1 class="hero__name">Camille Pawlak</h1>
   <p class="hero__tagline">Ph.D., UCLA Geography &middot; Staff Scientist, Urban Forest Institute</p>
-  <p class="hero__intro">I'm a remote sensing scientist who studies California's urban forests, from statewide canopy mapping to how trees recover after wildfire. I finished my Ph.D. in Geography at UCLA in 2026, advised by Dr. Tom Gillespie (previously Dr. Matt Ritter, Dr. Jenn Yost, Dr. Andrew Fricker, and Dr. Kyle Cavanaugh). My work is applied: I build tools that cities and land managers use to make decisions about the trees that keep neighborhoods cooler, healthier, and more resilient.</p>
+  <p class="hero__intro">I'm a remote sensing scientist who studies environmental change in California's urban forests, from tree canopy cover to how neighborhoods recover after wildfire. I also study coastal ecosystems, including kelp forests and, in current work, oil slicks off the Santa Barbara coast. Across both, I'm interested in the overlap between biodiversity, ecosystem services, and human well-being and equity, and in building tools that inform decisions made by cities and land managers.</p>
   <a href="/research/" class="btn btn--primary">My Research &rarr;</a>
 </div>
 
