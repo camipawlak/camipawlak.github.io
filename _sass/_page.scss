@@ -17,9 +17,6 @@
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(12 of 12);
-  }
   max-width: 46em;
   margin-left: auto;
   margin-right: auto;

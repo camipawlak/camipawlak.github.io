@@ -9,14 +9,6 @@
   margin-right: auto;
   float: none;
 
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
-  @include breakpoint($large) {
-    @include span(12 of 12);
-  }
-
   a {
     text-decoration: underline;
 
