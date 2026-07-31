@@ -61,9 +61,11 @@ redirect_from:
 
 ### Ph.D. Geography
 *University of California, Los Angeles* 2026
+Advisor: Dr. Thomas Gillespie
 
 ### M.S. Biology
 *California Polytechnic State University, San Luis Obispo* 2023
+Advisor: Dr. Matt Ritter
 
 ### B.S. Environmental Science
 *University of California, Los Angeles* 2020
