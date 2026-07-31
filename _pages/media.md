@@ -5,6 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
+Slater, E. (2024) Shaping California’s Future: Cal Poly to Lead the Charge for Greener Cities. *College of Engineering Connection.* https://ceng.calpoly.edu/connection/2024/11/shaping-californias-future-cal-poly-to-lead-the-charge-for-greener-cities/
+
+
 Wilson, N. (2023) Urban Tree Diversity and Global Warming. *Cal Poly Bailey College of Science 
 and Mathematics Intersections Magazine*. https://cosam.calpoly.edu/intersections-2023/urban-tree-diversity
 
@@ -26,5 +29,7 @@ Hodel, D. , Falco, C., **Pawlak, C.**, &  Komen, J. (2022). Testing treatment ef
 Invasive Shot Hole Borers. *Western Arborist.*
 
 # Maps published in:
+Camille Pawlak. 2025. Maps created for California’s Trees: A Field Guide to the Native Species (Authors: Matt Ritter and Michael Edward Kauffmann). *Backcountry Press.*
+
 Keil, D., & Hoover, R. (2023). Vascular Plants of San Luis Obispo County, California (2nd ed.). *Pacific Street Publishing.*
 

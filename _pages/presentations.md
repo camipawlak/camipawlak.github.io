@@ -5,6 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
+**Tracking California’s Urban Forest: Big Data and Remote Sensing for Smarter Management.** Climate Solutions Now.
+*February 2025 | Invited Talk*
+
+**Harnessing Neural Networks for Broad-Scale Urban Canopy Cover Mapping: A Remote Sensing Approach in California.** American Geophysical Union annual conference, Washington D.C.
+*December 2024 | Presentation*
+
 **OpenCanopy: Tracking California’s Urban Forest** The Western Chapter of the International Society of Arboriculture. 
 *April 2024 | Cultivating Competence | Presentation*
 
