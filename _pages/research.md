@@ -14,7 +14,7 @@ I combine remote sensing, field data, and public datasets to understand how ecos
 
 <img class="research-section__banner" src="/images/nice_tree.jpg" alt="A flowering street tree in Los Angeles">
 
-Tree diversity shapes what an urban forest can provide, from shade and cooling to habitat. I've studied the distribution of California's native trees in cities, and shown that streets with more diverse tree plantings tend to run cooler in summer. I've also studied kelp forests along the coast, another ecosystem that provides habitat and coastal protection and is changing quickly under climate stress.
+Urban tree composition and diversity shape what an urban forest can provide, from shade and cooling to habitat. I've studied the distribution of California's canopy, where native trees occur in cities, and shown that streets with more diverse tree plantings tend to run cooler in summer. I've also studied kelp forests along the coast, another ecosystem that provides habitat and coastal protection and is changing quickly under climate stress.
 
 <div class="research-section__pubs" markdown="1">
 **Selected publications:**
@@ -35,7 +35,7 @@ Cavanaugh, K. C., Cavanaugh, K. C., Pawlak, C. C., Bell, T. W., & Saccomanno, V.
 
 <img class="research-section__banner" src="/images/coastal_kelp.jpg" alt="Aerial view of a kelp forest along the California coast">
 
-Most of my work is methods focused: using satellite, aerial, and drone imagery to track change at scales that are hard to capture on foot. For my dissertation, I built a statewide time series of California's urban tree canopy and used it to measure canopy loss, tree removals, and recovery after the 2025 Eaton and Palisades fires. I've used similar approaches to detect individual trees from aerial imagery, and to track kelp forests along the coast using satellites and drones.
+Much of my work is methods focused: using satellite, aerial, and drone imagery to track change at scales that are hard to capture on foot. For my dissertation, I built a statewide time series of California's urban tree canopy and used it to measure canopy loss, tree removals, and recovery after the 2025 Eaton and Palisades fires. I've used similar approaches to detect individual trees from aerial imagery, and to track kelp and oil along the coast using satellites and drones.
 
 <div class="research-section__pubs" markdown="1">
 **Selected publications:**
@@ -56,7 +56,7 @@ Houskeeper, H. F., Rosenthal, I. S., Cavanaugh, K. C., Pawlak, C., et al. (2022)
 
 <img class="research-section__banner" src="/images/uf_remote_sense.jpg" alt="Aerial remote sensing view of a Los Angeles neighborhood showing tree canopy and rooftops">
 
-Mapping ecosystems is only half the question. The other half is who has access to the benefits they provide, from cleaner air to cooler streets. I've mapped environmental justice indicators across California schools, and my ongoing work looks at how public versus private tree ownership shapes tree equity, and how urban forest composition affects air quality in Los Angeles neighborhoods. I'm also a contributing author on CAL FIRE's statewide urban forest canopy plan.
+Mapping ecosystems is only half the question. The other half is who has access to the benefits they provide, from cleaner air to cooler streets. I've helped environmental justice indicators across California schools with students, and my ongoing work looks at how public versus private tree ownership shapes tree equity, and how urban forest composition affects air quality in Los Angeles neighborhoods. I'm also a contributing author on CAL FIRE's statewide urban forest canopy plan.
 
 <div class="research-section__pubs" markdown="1">
 **Selected publications:**

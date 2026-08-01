@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Courses"
+title: "Student Involvement"
 permalink: /teaching/
 ---
 
