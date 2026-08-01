@@ -4,6 +4,7 @@
 
 .hero-banner {
   position: relative;
+  z-index: 0;
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
@@ -40,11 +41,15 @@
 }
 
 .hero {
+  position: relative;
+  z-index: 1;
   max-width: 40em;
   margin: 0 auto 3em;
   text-align: center;
 
   &__portrait {
+    position: relative;
+    z-index: 2;
     display: block;
     width: 150px;
     height: 150px;
@@ -201,17 +206,16 @@
 
   &__banner {
     display: block;
-    width: 100vw;
+    width: 100%;
     max-width: none;
-    margin-left: calc(50% - 50vw);
-    margin-right: calc(50% - 50vw);
-    height: 130px;
+    height: 190px;
     object-fit: cover;
+    border-radius: $border-radius;
     margin-top: 0.5em;
     margin-bottom: 1.5em;
 
     @include breakpoint($medium) {
-      height: 170px;
+      height: 240px;
     }
   }
 
