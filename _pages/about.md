@@ -25,19 +25,19 @@ redirect_from:
     <div class="research-card">
       <a href="/research/#biodiversity-ecosystem-services">
         <h3>Biodiversity &amp; Ecosystem Services</h3>
-        <p>How tree diversity and composition shape the benefits urban and coastal ecosystems provide, from cooler streets to healthier kelp forests.</p>
+        <p>How diversity and composition shape the benefits urban and coastal ecosystems provide.</p>
       </a>
     </div>
     <div class="research-card">
       <a href="/research/#remotely-sensed-change">
         <h3>Remotely Sensed Change</h3>
-        <p>Using satellite, aerial, and drone imagery to track how forests and coastlines change over time, including canopy loss, removals, and recovery after fire.</p>
+        <p>Using satellite, aerial, and drone imagery to track how forests and coastal ecosystems change over time, including canopy loss, tree recovery after fire, and coastal oi slicks.</p>
       </a>
     </div>
     <div class="research-card">
       <a href="/research/#human-well-being-equity">
         <h3>Human Well-Being &amp; Equity</h3>
-        <p>Asking who has access to the benefits these ecosystems provide, and helping cities plan more equitably.</p>
+        <p>Asking who has access to the benefits ecosystems provide, and helping cities plan more equitably.</p>
       </a>
     </div>
   </div>
