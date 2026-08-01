@@ -9,9 +9,9 @@
   margin-right: calc(50% - 50vw);
   margin-top: 0;
   margin-bottom: 0;
-  height: 300px;
+  height: 260px;
   background-size: cover;
-  background-position: center 65%;
+  background-position: center 35%;
   background-repeat: no-repeat;
 
   &::before {
@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($medium) {
-    height: 440px;
+    height: 360px;
   }
 }
 
@@ -133,7 +133,6 @@
 .recent-news {
   max-width: 46em;
   margin: 0 auto 2em;
-  text-align: center;
 
   &__title {
     text-align: center;
@@ -150,7 +149,7 @@
     padding: 0.6em 0;
     border-bottom: 1px solid $border-color;
     font-size: $type-size-5;
-    text-align: center;
+    text-align: left;
 
     &:last-child {
       border-bottom: none;
@@ -169,6 +168,7 @@
     margin-top: 1.5em;
     font-size: $type-size-6;
     color: $dark-gray;
+    text-align: left;
   }
 }
 
@@ -202,6 +202,7 @@
   &__banner {
     display: block;
     width: 100vw;
+    max-width: none;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
     height: 130px;
